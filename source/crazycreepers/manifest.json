@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Watch out creepers are faster and stronger",
+        "name": "Crazy creepers",
+        "uuid": "c73d6f93-6db6-4cdf-8352-ef19833c1154",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+      {
+        "description": "Crazy creepers",
+        "type": "data",
+        "uuid": "60e642e7-5756-444e-9eb0-978fb604f7c6",
+        "version": [ 0, 0, 1 ]
+      }
+    ]
+}

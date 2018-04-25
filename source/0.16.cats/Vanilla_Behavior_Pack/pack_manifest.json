@@ -1,0 +1,23 @@
+{
+  "header": {
+    "pack_id": "64835FB4-4B82-4693-89C6-DFCB3660D4D0",
+    "name": "resourcePack.0.16.cats",
+    "packs_version": "0.0.1",
+    "modules": [
+      {
+        "description": "resourcePack.0.16.cats",
+        "version": "0.0.1",
+        "uuid": "724B5462-9886-46B9-94D2-0D64A322E86D",
+        "type": "data"
+      }
+    ],
+    "dependencies": [
+      {
+        "description": "resourcePack.0.16.cats",
+        "version": "0.0.1",
+        "uuid": "2B6CF1C0-FBCF-406A-BCD8-221DFD279DCA",
+        "type": "resources"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+// GUIDs
+
+// DBE15618-4A7B-4893-AB6B-DAA0F0C71DC2
+// E95F7FD5-B578-4780-8E25-177CDFF90CAE
+// 3731BD25-63EB-4D3E-9411-91814A3A724E
+// 2F2D6DF0-54B6-4FDB-9D09-49F2165AD094
+// A7A2442E-5CC4-40A6-9413-F753869BEAE9
+
+// for randomly regrowing a different color           
+
+          {
+              "randomize": [
+                {
+                  "weight": 100,
+                  "component_groups": [
+                      "minecraft:sheep_white"
+                    ]
+                },
+                {
+                  "weight": 100,
+                  "component_groups": [
+                      "minecraft:sheep_orange"
+                    ]
+                }
+              ]
+           },
