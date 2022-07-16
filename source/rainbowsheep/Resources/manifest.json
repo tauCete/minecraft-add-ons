@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Rainbowsheep resources",
+        "name": "Rainbowsheep Resource Pack",
+        "uuid": "2F2D6DF0-54B6-4FDB-9D09-49F2165AD094",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Rainbowsheep resource pack",
+            "type": "resources",
+            "uuid": "E95F7FD5-B578-4780-8E25-177CDFF90CAE",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+	"snippet": {
+		"Description": "descriptive_text empty snippet",
+		"json": {
+
+		}
+	},
+
+	"snippet": {
+		"Description": "original json for random spawn colors",
+		"json": {
+            "randomize": [
+              {
+                "weight": 81836,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_white"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_black"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_light_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 3000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_brown"
+                  ]
+                }
+              },
+              {
+                "weight": 164,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_pink"
+                  ]
+                }
+              }
+            ]
+		}
+	},
+
+	"snippet": {
+		"Description": "random_sheep_color adding all colors to the randomize function that sets the component group sheep_color",
+         "json": {
+         	"randomize": [
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_white"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_orange"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_magenta"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_light_blue"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_yellow"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_lime"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_pink"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_light_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_cyan"
+                  ]
+                }
+              },   
+               {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_purple"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_blue"
+                  ]
+                }
+              },  
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_brown"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_green"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_red"
+                  ]
+                }
+              },
+              {
+                "weight": 100,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_black"
+                  ]
+                }
+              }
+            ]
+		}
+	},	
+
+	"snippet": {
+		"Description": "descriptive_text empty snippet",
+		"text": [
+			"wool color list in order",
+			"\\n",
+			"White wool\\nOrange wool\\nMagenta wool\\n",
+			"Light blue wool\\nYellow wool\\nLime wool\\n",
+			"Pink wool\\nGray wool\\nLight gray wool\\n",
+			"Cyan wool\\nPurple wool\\nBlue wool\\n",
+			"Brown wool\\nGreen wool\\nRed wool\\nBlack wool"
+		]	
+	},
+
+	"snippet": {
+		"Description": "original map sheep_xxxx spawn colors to mx color hex values",
+		"json": {
+		  "minecraft:sheep_white": {
+           "minecraft:color": {
+              "value": 0
+            }
+	      },
+	      "minecraft:sheep_brown": {
+	        "minecraft:color": {
+	          "value": 12
+	        }
+	      },
+	      "minecraft:sheep_black": {
+	        "minecraft:color": {
+	          "value": 15
+	        }
+	      },
+	      "minecraft:sheep_gray": {
+	        "minecraft:color": {
+	          "value": 8
+	        }
+	      },
+	      "minecraft:sheep_light_gray": {
+	        "minecraft:color": {
+	          "value": 7
+	        }
+	      },
+	      "minecraft:sheep_pink": {
+	        "minecraft:color": {
+	          "value": 6
+	        }
+	      },
+	      "minecraft:sheep_red": {
+	        "minecraft:color": {
+	          "value": 14
+	        }
+	      }
+
+		}
+	},
+
+	"snippet": {
+		"Description": "full color options map sheep_xxxx spawn colors to mx color hex values",
+		"json": {
+		  "minecraft:sheep_white": {
+           "minecraft:color": {
+              "value": 0
+            }
+	      },
+	      "minecraft:sheep_orange": {
+	        "minecraft:color": {
+	          "value": 1
+	        }
+	      },
+	      "minecraft:sheep_magenta": {
+	        "minecraft:color": {
+	          "value": 2
+	        }
+	      },
+	      "minecraft:sheep_light_blue": {
+	        "minecraft:color": {
+	          "value": 3
+	        }
+	      },
+	      "minecraft:sheep_yellow": {
+	        "minecraft:color": {
+	          "value": 4
+	        }
+	      },
+	      "minecraft:sheep_lime": {
+	        "minecraft:color": {
+	          "value": 5
+	        }
+	      },
+	      "minecraft:sheep_pink": {
+	        "minecraft:color": {
+	          "value": 6
+	        }
+	      },
+	      "minecraft:sheep_gray": {
+	        "minecraft:color": {
+	          "value": 7
+	        }
+	      },
+	      "minecraft:sheep_light_gray": {
+	        "minecraft:color": {
+	          "value": 8
+	        }
+	      },
+	      "minecraft:sheep_cyan": {
+	        "minecraft:color": {
+	          "value": 9
+	        }
+	      },
+	      "minecraft:sheep_purple": {
+	        "minecraft:color": {
+	          "value": 10
+	        }
+	      },
+	      "minecraft:sheep_blue": {
+	        "minecraft:color": {
+	          "value": 11
+	        }
+	      },
+	      "minecraft:sheep_brown": {
+	        "minecraft:color": {
+	          "value": 12
+	        }
+	      },
+	      "minecraft:sheep_green": {
+	        "minecraft:color": {
+	          "value": 13
+	        }
+	      },
+	      "minecraft:sheep_red": {
+	        "minecraft:color": {
+	          "value": 14
+	        }
+	      },
+	      "minecraft:sheep_black": {
+	        "minecraft:color": {
+	          "value": 15
+	        }
+	      }
+		}
+	},
+
+	"snippet": {
+		"Description": "descriptive_text empty snippet",
+		"json": {
+            "remove": {
+              "component_groups": [
+                "minecraft:sheep_sheared"
+              ]
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:sheep_dyeable"
+              ]
+            }
+          }
+
+		}
+	}
+
+
+
+}

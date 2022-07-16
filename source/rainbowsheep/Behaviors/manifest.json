@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Rainbowsheep have all the colors",
+        "name": "Rainbowsheep",
+        "uuid": "DBE15618-4A7B-4893-AB6B-DAA0F0C71DC2",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+      {
+        "description": "Rainbowsheep module",
+        "type": "data",
+        "uuid": "A7A2442E-5CC4-40A6-9413-F753869BEAE9",
+        "version": [ 0, 0, 1 ]
+      }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2F2D6DF0-54B6-4FDB-9D09-49F2165AD094",
+            "version": [0, 0, 1]
+        }
+    ]
+}

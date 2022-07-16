@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Behavior pack template description",
+        "name": "Pack_name",
+        "uuid": "00000000-0000-0000-0000-000000000001",
+        "version": [0, 0, 1],
+    },
+    "modules": [
+      {
+        "description": "Module_description",
+        "type": "data",
+        "uuid": "00000000-0000-0000-0000-000000000002",
+        "version": [ 0, 0, 1 ]
+      }
+    ],
+    "dependencies": [
+        {
+            "uuid": "00000000-0000-0000-0000-000000000003",
+            "version": [0, 0, 1]
+        }
+    ]
+}
